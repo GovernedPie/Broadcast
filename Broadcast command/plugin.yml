@@ -1,0 +1,10 @@
+name: GovAnnounce
+version: 1.0.0
+api: 3.0.0
+main: announce\Loader
+author: GovernedPie
+description: first ever command for making announcements!
+
+commands:
+  announce:
+    description: "use /announce to broadcast a message to the server"
